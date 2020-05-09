@@ -59,6 +59,6 @@ class InstaBot:
 # In InstaBot() here provide your instagram Email or username and Password
 # In like_post() provide the hashtag for which likes must me provided
 
-obj = InstaBot('daniel_lvovsky','polkpolk12')
+obj = InstaBot('username','password')
 obj.login()
-obj.like_post('stef_pianokeet')
+obj.like_post('hashtag')
