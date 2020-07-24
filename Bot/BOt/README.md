@@ -2,8 +2,8 @@
 #                                       Instagram Bot
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                          DESCRIPTION
-           Logs into your account and goto a specific hashtag and likes almost 45 posts in it
-           helps to make your Insta active and hence bring back to you, followers
+           Logs into your account and goes to specific hashtags and likes almost 45 posts within the specified hashtag.
+           Helps your Instagram activity and possibility of new followers.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                              REQUIREMENTS
                               FireFox Browser, Python, Selenium, geckodriver
